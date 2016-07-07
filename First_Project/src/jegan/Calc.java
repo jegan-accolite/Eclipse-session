@@ -35,7 +35,7 @@ public class Calc implements calculator {
 		Boolean flag = true;
 		calculator cal = new Calc();
 		Scanner input = new Scanner(System.in);
-		System.out.println("Welcome to the Calculator");
+		System.out.println("Welcome to Jegan's Calculator");
 		while (flag) {
 			System.out.println("Enter Val1 and VAl2:");
 			val1 = input.nextInt();
